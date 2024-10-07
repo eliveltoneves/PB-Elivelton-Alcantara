@@ -1,0 +1,15 @@
+Data do Sistema Operacional: 2024/10/03 15:27
+Data do Primeiro Registro de Venda: 17/09/2024
+Data do Último Registro de Venda: 12/09/2024
+Total de itens vendidos: 30
+Primeiras 10 linhas do arquivo backup-dados:
+id,produto,quantidade,preco,data
+1,Cimento,20,25.50,17/09/2024
+2,Tijolo,100,0.70,20/09/2024
+3,Areia,5,200.00,30/09/2024
+4,Cal,10,15.00,22/09/2024
+5,Bloco de Concreto,40,2.50,09/09/2024
+6,Argamassa,25,30.00,15/09/2024
+7,Ferro 3/8,15,12.00,19/09/2024
+8,Ferro 1/2,10,18.00,29/09/2024
+9,Tubo PVC,30,4.99,05/09/2024

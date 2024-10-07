@@ -1,0 +1,15 @@
+Data do Sistema Operacional: 2024/10/04 15:27
+Data do Primeiro Registro de Venda: 18/09/2024
+Data do Último Registro de Venda: 14/09/24
+Total de itens vendidos: 30
+Primeiras 10 linhas do arquivo backup-dados:
+id,produto,quantidade,preco,data
+1,Lápis,10,1.50,18/09/2024
+2,Caneta,15,2.00,01/09/2024
+3,Caderno,5,15.00,02/08/2024
+4,Borracha,20,0.99,03/09/2024
+5,Livro Didático,2,45.00,04/09/2024
+6,Régua,5,3.50,05/09/2024
+7,Compasso,3,12.99,06/09/2024
+8,Mochila,1,75.00,07/09/2024
+9,Estojo,2,20.00,09/09/2024

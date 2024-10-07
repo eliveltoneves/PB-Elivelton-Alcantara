@@ -1,0 +1,15 @@
+Data do Sistema Operacional: 2024/10/02 15:27
+Data do Primeiro Registro de Venda: 01/09/2024
+Data do Último Registro de Venda: 24/09/2024
+Total de itens vendidos: 20
+Primeiras 10 linhas do arquivo backup-dados:
+id,produto,quantidade,preco,data
+1,Detergente,3,5.99,01/09/2024
+2,Desinfetante,2,7.50,02/09/2024
+3,Água Sanitária,1,3.99,03/09/2024
+4,Esponja,5,2.00,04/09/2024
+5,Sabão em Barra,4,6.25,05/09/2024
+6,Limpa Vidros,2,8.50,06/09/2024
+7,Álcool 70%,3,12.99,15/09/2024
+8,Lustra Móveis,1,14.99,24/09/2024
+9,Pano de Chão,6,3.50,15/09/2024

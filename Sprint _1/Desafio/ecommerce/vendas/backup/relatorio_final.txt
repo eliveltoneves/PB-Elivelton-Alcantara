@@ -1,0 +1,85 @@
+Relatório Consolidado de Vendas
+========================================
+Data do Sistema Operacional: 2024/10/04 18:48
+========================================
+
+Relatório de Vendas - Data: 20241001
+----------------------------------------
+Data do Sistema Operacional: 2024/10/01 15:27
+Data do Primeiro Registro de Venda: 01/01/2023
+Data do Último Registro de Venda: 31/01/2023
+Total de itens vendidos: 66
+Primeiras 10 linhas do arquivo backup-dados:
+id,produto,quantidade,preço,data
+1,camiseta,2,29.90,01/01/2023
+2,calça,5,80.00,02/01/2023
+3,sapato,3,100.00,03/01/2023
+4,meia,20,5.00,04/01/2023
+5,cinto,8,15.00,05/01/2023
+6,camisa,7,40.00,06/01/2023
+7,bermuda,6,50.00,07/01/2023
+8,tênis,4,120.00,08/01/2023
+9,bone,12,10.00,09/01/2023
+
+========================================
+
+Relatório de Vendas - Data: 20241002
+----------------------------------------
+Data do Sistema Operacional: 2024/10/02 15:27
+Data do Primeiro Registro de Venda: 01/09/2024
+Data do Último Registro de Venda: 24/09/2024
+Total de itens vendidos: 20
+Primeiras 10 linhas do arquivo backup-dados:
+id,produto,quantidade,preco,data
+1,Detergente,3,5.99,01/09/2024
+2,Desinfetante,2,7.50,02/09/2024
+3,Água Sanitária,1,3.99,03/09/2024
+4,Esponja,5,2.00,04/09/2024
+5,Sabão em Barra,4,6.25,05/09/2024
+6,Limpa Vidros,2,8.50,06/09/2024
+7,Álcool 70%,3,12.99,15/09/2024
+8,Lustra Móveis,1,14.99,24/09/2024
+9,Pano de Chão,6,3.50,15/09/2024
+
+========================================
+
+Relatório de Vendas - Data: 20241003
+----------------------------------------
+Data do Sistema Operacional: 2024/10/03 15:27
+Data do Primeiro Registro de Venda: 17/09/2024
+Data do Último Registro de Venda: 12/09/2024
+Total de itens vendidos: 30
+Primeiras 10 linhas do arquivo backup-dados:
+id,produto,quantidade,preco,data
+1,Cimento,20,25.50,17/09/2024
+2,Tijolo,100,0.70,20/09/2024
+3,Areia,5,200.00,30/09/2024
+4,Cal,10,15.00,22/09/2024
+5,Bloco de Concreto,40,2.50,09/09/2024
+6,Argamassa,25,30.00,15/09/2024
+7,Ferro 3/8,15,12.00,19/09/2024
+8,Ferro 1/2,10,18.00,29/09/2024
+9,Tubo PVC,30,4.99,05/09/2024
+
+========================================
+
+Relatório de Vendas - Data: 20241004
+----------------------------------------
+Data do Sistema Operacional: 2024/10/04 15:27
+Data do Primeiro Registro de Venda: 18/09/2024
+Data do Último Registro de Venda: 14/09/24
+Total de itens vendidos: 30
+Primeiras 10 linhas do arquivo backup-dados:
+id,produto,quantidade,preco,data
+1,Lápis,10,1.50,18/09/2024
+2,Caneta,15,2.00,01/09/2024
+3,Caderno,5,15.00,02/08/2024
+4,Borracha,20,0.99,03/09/2024
+5,Livro Didático,2,45.00,04/09/2024
+6,Régua,5,3.50,05/09/2024
+7,Compasso,3,12.99,06/09/2024
+8,Mochila,1,75.00,07/09/2024
+9,Estojo,2,20.00,09/09/2024
+
+========================================
+
