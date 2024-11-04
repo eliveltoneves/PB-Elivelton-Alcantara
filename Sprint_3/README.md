@@ -1,4 +1,4 @@
-# Sprint 2: Python e Economias na Nuvem AWS
+# Sprint 3: Python e Economias na Nuvem AWS
 
 Este repositório documenta os cursos concluídos na segunda sprint da trilha de aprendizado para a formação em Engenharia de Dados. Nesta sprint, o foco esteve em duas áreas fundamentais: a programação em Python e a compreensão dos aspectos econômicos e financeiros do uso da nuvem AWS. Ambas as disciplinas são indispensáveis para o desenvolvimento de habilidades técnicas e estratégicas na área de dados.
 
