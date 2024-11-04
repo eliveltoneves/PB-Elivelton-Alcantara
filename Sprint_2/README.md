@@ -46,12 +46,7 @@ Este curso foi voltado para parceiros da AWS, com foco em estratégias de vendas
 
 ## Evidências
 
-Nesta seção, serão incluídas as evidências relacionadas aos cursos mencionados, como:
-
-- Certificados de conclusão
-- Screenshots de projetos desenvolvidos
-- Documentação dos resultados dos projetos em SQL
-- Comprovante de credenciamento AWS Partner Sales Accreditation
+[Evidências](/Sprint_2/Evidencias/)
 
 ---
 

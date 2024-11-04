@@ -37,4 +37,5 @@ Estou tendo minha primeira experiência na área com a Compass.Uol fazendo este 
 ## Sprints
 
 ### [Sprint-1](/Sprint%20_1/) - Linux Git e GitHub
-### [Sprint-2](/Sprint_2/) - SQL e AWS Parther: Sales Accreditation (Business) (Portuguese)
+### [Sprint-2](/Sprint_2/) - SQL e AWS Parther: Sales Accreditation
+### [Sprint-3](/Sprint_3/) - Python 3 - Básico ao Avançado e AWS Partner: Economias na nuvem AWS
