@@ -40,3 +40,4 @@ Estou tendo minha primeira experiência na área com a Compass.Uol fazendo este 
 ### [Sprint-2](/Sprint_2/) - SQL e AWS Parther: Sales Accreditation
 ### [Sprint-3](/Sprint_3/) - Python 3 - Básico ao Avançado e AWS Partner: Economias na nuvem AWS
 ### [Sprint-4](/Sprint_4/) - Python 3 - Básico ao Avançado, Docker para Desenvolvedores (com Docker Swarm e Kubernetes), AWS Partner: Accreditation Technical e Estatística Descritiva com Python
+### [Sprint-5](/Sprint_5/) - AWS Cloud Quest: Cloud Practitioner e Curso-padrão de preparação para o exame: AWS Certified Cloud Practitioner (CLF-C02 - Português (Brasil))
