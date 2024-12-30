@@ -1,0 +1,1 @@
+{"schema": "{\"fields\":[{\"metadata\":{},\"name\":\"nome\",\"nullable\":true,\"type\":\"string\"},{\"metadata\":{},\"name\":\"sexo\",\"nullable\":true,\"type\":\"string\"},{\"metadata\":{},\"name\":\"total\",\"nullable\":true,\"type\":\"integer\"},{\"metadata\":{},\"name\":\"ano\",\"nullable\":true,\"type\":\"integer\"}],\"type\":\"struct\"}"}
