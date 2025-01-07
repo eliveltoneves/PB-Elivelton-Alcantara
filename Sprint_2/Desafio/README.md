@@ -194,7 +194,7 @@ GROUP BY cliente_key
 ORDER BY total_locacoes DESC;
 ```
 
-![Total Locações por carro](/Sprint_2/Evidencias/locacoes_cliente.png)
+![Total Locações por carro](../Evidencias/locacoes_cliente.png)
 
 ### Receita Total por Carro
 
@@ -207,7 +207,7 @@ GROUP BY carro_key
 ORDER BY receita_total DESC;
 ```
 
-![Receita total por carro](/Sprint_2/Evidencias/receita_total_carro.png)
+![Receita total por carro](../Evidencias/receita_total_carro.png)
 
 ### Análise Temporal
 
@@ -221,18 +221,18 @@ GROUP BY ano
 ORDER BY ano;
 ```
 
-![Locações por ano](/Sprint_2/Evidencias/total_locacoes_ano.png)
+![Locações por ano](../Evidencias/total_locacoes_ano.png)
 
 
 ---
 
 ## Diagrama UML do Banco Relacional
 
-![Diagrama UML Relacional](/Sprint_2/Desafio/UML_Relacional.png)
+![Diagrama UML Relacional](../Desafio/UML_Relacional.png)
 
 ## Diagrama UML do Banco Dimensional
 
-![Diagrama UML Dimensional](/Sprint_2/Desafio/UML_Dimensional.png)
+![Diagrama UML Dimensional](../Desafio/UML_Dimensional.png)
 
 ---
 
@@ -248,7 +248,7 @@ Durante o processo de modelagem e conversão, algumas dificuldades surgiram, pri
     SELECT tl.dataLocacao, tl.dataEntrega
     FROM tb_locacao tl
     ```
-    ![Data não formatada](/Sprint_2/Evidencias/data_nao_formatada.png)
+    ![Data não formatada](../Evidencias/data_nao_formatada.png)
   
   Exemplo de conversão utilizada:
   
@@ -259,7 +259,7 @@ Durante o processo de modelagem e conversão, algumas dificuldades surgiram, pri
 
   Resultado obitido:
 
-  ![Data Formatada](/Sprint_2/Evidencias/data_formatada.png)
+  ![Data Formatada](../Evidencias/data_formatada.png)
 
 - **Problemas com as Colunas `horaLocacao` e `horaEntrega`**: Algumas entradas nas colunas de hora estavam no formato `H:MM`, com um dígito a menos. Para corrigir, foi utilizado um `CASE` para adicionar um zero à esquerda quando necessário:
 
@@ -269,7 +269,7 @@ Durante o processo de modelagem e conversão, algumas dificuldades surgiram, pri
     SELECT tl.horaLocacao, tl.horaEntrega
     FROM tb_locacao tl
     ```
-    ![Hora não formatada](/Sprint_2/Evidencias/hora_nao_formatada.png)
+    ![Hora não formatada](../Evidencias/hora_nao_formatada.png)
 
   ```sql
   CASE 
@@ -280,7 +280,7 @@ Durante o processo de modelagem e conversão, algumas dificuldades surgiram, pri
 
   Resultado obitido:
 
-  ![Hora formatada](/Sprint_2/Evidencias/hora_nao_formatada.png)
+  ![Hora formatada](../Evidencias/hora_nao_formatada.png)
 
 Essas correções foram essenciais para garantir que os dados fossem corretamente interpretados e processados no banco dimensional.
 

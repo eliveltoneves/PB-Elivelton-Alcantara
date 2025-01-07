@@ -29,20 +29,19 @@ O segundo curso, voltado para Git e GitHub, foi igualmente enriquecedor. A abord
 
 Script de de Processamento de vendas
 
-![Script_processamento_de_vendas](Evidencias/Script_processamento_vendas.png)
-
+![Script_processamento_de_vendas](./Evidencias/Script_processamento_vendas.png)
 Script Consolidador de vendas executado manualmente após os quatro dias de processamento de venda
 
-![Script_consolidador_de_vendas](Evidencias/Script_consolidador.png)
+![Script_consolidador_de_vendas](./Evidencias/Script_consolidador.png)
 
 Estrutura criada após os quatros dias de processamento de vendas e executado o consolidador
 
-![Estrutura-de-pastas](Evidencias/Estrutura_criada_apos_script.png)
+![Estrutura-de-pastas](./Evidencias/Estrutura_criada_apos_script.png)
 
 Código do agendamento feito no Crontab
 
-![Codigo_crontab](Evidencias/Agendamento_crontab.png)
+![Codigo_crontab](./Evidencias/Agendamento_crontab.png)
 
 Relatório de Vendas gerado com script
 
-![Relatorio_de_vendas](Evidencias/Ex_relatorio_vendas.png)
+![Relatorio_de_vendas](./Evidencias/Ex_relatorio_vendas.png)

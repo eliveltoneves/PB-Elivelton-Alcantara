@@ -46,15 +46,15 @@ Este curso foi voltado para parceiros da AWS, com foco em estratégias de vendas
 
 ## Evidências
 
-[Evidências](/Sprint_2/Evidencias/)
+[Evidências](./Evidencias/)
 
 ---
 
 ## Exercícios
 
-[Exercícios](/Sprint_2/Exercicios/)
+[Exercícios](./Exercicios/)
 
 ## Certificados
 
-[Certificados](/Sprint_2/Certificados/)
+[Certificados](./Certificados/)
 

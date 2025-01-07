@@ -84,7 +84,7 @@ s3://data-lake-do-elivelton/Raw/Local/CSV/Series/2024/12/10/series.csv
 
 Arquivo series dentro do Bucket com a estrutura correta
 
-![estrutura_correta](/Sprint_6/Evidencias/desafio/estrutura_correta.png)
+![estrutura_correta](../Evidencias/desafio/estrutura_correta.png)
 
 ---
 
@@ -132,7 +132,7 @@ docker build -t aws-s3-uploader .
 
 Arquivos de dentro do volume
 
-![arquivos_no_volume](/Sprint_6/Evidencias/desafio/arquivos_no_volume.png)
+![arquivos_no_volume](../Evidencias/desafio/arquivos_no_volume.png)
 
 ---
 
@@ -144,7 +144,7 @@ docker run --rm -v csv_data:/app/data -v $HOME/.aws:/root/.aws aws-s3-uploader
 ```
 Após a execução do container bucket foi criado
 
-![bucket_criado](/Sprint_6/Evidencias/desafio/bucket_criado.png)
+![bucket_criado](../Evidencias/desafio/bucket_criado.png)
 
 ---
 

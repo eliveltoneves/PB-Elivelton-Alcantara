@@ -1,6 +1,6 @@
 # Olá Elivélton Alcântara
 
-![Foto de Perfil](images/perfil.png)
+![Foto de Perfil](/images/perfil.png)
 
 ## Sobre mim
 

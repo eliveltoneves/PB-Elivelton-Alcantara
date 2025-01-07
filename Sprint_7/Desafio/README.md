@@ -25,11 +25,11 @@ O principal desafio era:
 1. **Cadastro no TMDB:**
    - Criei uma conta no TMDB e gerei uma chave de API.
 
-   ![cad_api_tmdb](/Sprint_7/Evidencias/desafio/cad_api_tmdb.png)
+   ![cad_api_tmdb](../Evidencias/desafio/cad_api_tmdb.png)
 
    - Configurei a chave como uma variável de ambiente no AWS Lambda para garantir segurança.
 
-   ![chave_api](/Sprint_7/Evidencias/desafio/chave_api.png)
+   ![chave_api](../Evidencias/desafio/chave_api.png)
 
 2. **Requisições à API:**
    - Desenvolvi um script Python que utiliza a biblioteca `requests` para consumir a API.
@@ -141,7 +141,7 @@ O principal desafio era:
 
    - Resultado da função Lambda 
 
-   ![resultado_lambda](/Sprint_7/Evidencias/desafio/resultado_lambda.png)
+   ![resultado_lambda](../Evidencias/desafio/resultado_lambda.png)
 
 
 #### **2.2 Processamento e Armazenamento no S3**
@@ -149,7 +149,7 @@ O principal desafio era:
    - Para cada filme, busquei detalhes adicionais (ex.: orçamento, receita, países de produção, críticas e avaliações e plataformas disponíveis).
    - Agrupei os dados em arquivos JSON com, no máximo, 100 registros cada.
 
-   ![json](/Sprint_7/Evidencias/desafio/json.png)
+   ![json](../Evidencias/desafio/json.png)
 
 
 2. **Estrutura no S3:**
@@ -157,7 +157,7 @@ O principal desafio era:
      ```
      S3://data-lake-elivelton/Raw/TMDB/JSON/2020/12/28/tmdb_data_1.json
      ```
-     ![estrutura_gravada](/Sprint_7/Evidencias/desafio/estrutura_gravada.png)
+     ![estrutura_gravada](../Evidencias/desafio/estrutura_gravada.png)
 
    - Para isso, utilizei a biblioteca `boto3` no script Python.    
 
@@ -165,17 +165,17 @@ O principal desafio era:
 1. **Implementação no Lambda:**
    - Ajustei o script para ser executado como uma função Lambda.
    
-   ![lambda](/Sprint_7/Evidencias/desafio/lambda.png)
+   ![lambda](../Evidencias/desafio/lambda.png)
 
 2. **Criação de Layers:**
    - Adicionei a biblioteca `requests` via Layer no AWS Lambda para garantir sua disponibilidade.
 
-   ![requests_layer](/Sprint_7/Evidencias/desafio/requests_layer.png)
+   ![requests_layer](../Evidencias/desafio/requests_layer.png)
 
 3. **Permissões:**
    - Atualizei a role associada à função Lambda para incluir permissões de gravação no S3.
 
-   ![roles_policy](/Sprint_7/Evidencias/desafio/roles_policy.png)
+   ![roles_policy](../Evidencias/desafio/roles_policy.png)
 
 ---
 

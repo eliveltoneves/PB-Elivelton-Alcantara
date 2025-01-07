@@ -115,17 +115,17 @@ Estudo do serviço **Amazon QuickSight**, uma ferramenta de BI escalável para c
 
 ## Evidências
 
-[Evidências](/Sprint_6/Evidencias/)
+[Evidências](./Evidencias/)
 
 
 
 ## Exercícios
 
-[Exercícios](/Sprint_6/Exercicios/)
+[Exercícios](./Exercicios/)
 
 
 ## Certificados
 
-[Certificados](/Sprint_6/Certificados/)
+[Certificados](./Certificados/)
 
 

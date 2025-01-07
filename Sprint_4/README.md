@@ -64,14 +64,14 @@ Esse curso me forneceu ferramentas para análise descritiva de dados e visualiza
 
 ## Evidências
 
-[Evidências](/Sprint_4/Evidencias/)
+[Evidências](./Evidencias/)
 
 ---
 
 ## Exercícios
 
-[Exercícios](/Sprint_4/Exercicios/) 
+[Exercícios](./Exercicios/) 
 
 ## Certificados
 
-[Certificados](/Sprint_4/Certificados/)
+[Certificados](./Certificados/)

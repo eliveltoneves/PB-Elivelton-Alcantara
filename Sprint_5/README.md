@@ -22,7 +22,7 @@ Concluí todos os desafios, adquiri conhecimento prático e conquistei um badge 
 
 [Badge Cloud Quest](https://www.credly.com/badges/a0408883-6cbb-49e7-b9ca-fd645cdd2aae)
 
-![badges_cloud_quest](/Sprint_5/Evidencias/badges_cloud_quest.png)
+![badges_cloud_quest](./Evidencias/badges_cloud_quest.png)
 
 ---
 
@@ -61,19 +61,19 @@ O curso me permitiu identificar lacunas no conhecimento, reforçar conceitos e m
 
 ## Evidências
 
-[Evidências](/Sprint_5/Evidencias/)
+[Evidências](./Evidencias/)
 
 ---
 
 ## Exercícios
 
-[Exercícios](/Sprint_5/Exercicios/) 
+[Exercícios](./Exercicios/) 
 
 [Site Hospedado](http://elivelton.com.s3-website-us-east-1.amazonaws.com)
 
 ## Certificados
 
-[Certificados](/Sprint_5/Certificados/)
+[Certificados](./Certificados/)
 
 
 ---

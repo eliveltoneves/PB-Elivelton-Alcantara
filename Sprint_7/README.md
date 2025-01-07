@@ -41,15 +41,15 @@ O **Apache Spark** é amplamente reconhecido como uma solução essencial para C
 
 ## Evidências
 
-[Evidências](/Sprint_7/Evidencias/)
+[Evidências](./Evidencias/)
 
 
 
 ## Exercícios
 
-[Exercícios](/Sprint_7/Exercicios/)
+[Exercícios](./Exercicios/)
 
 
 ## Certificados
 
-[Certificados](/Sprint_7/Certificados/)
+[Certificados](./Certificados/)

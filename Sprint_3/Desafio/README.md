@@ -10,7 +10,7 @@ Este projeto tem como objetivo explorar e analisar dados de aplicativos da Googl
 
  Nesta etapa inicial, foram importadas as bibliotecas Pandas e Matplotlib, essenciais para manipulação de dados e visualização. Em seguida, carregamos o dataset googleplaystore.csv, aplicando um processamento inicial para remover duplicatas. A remoção de linhas duplicadas garante a consistência dos dados, eliminando entradas que poderiam distorcer nossas análises.
 
- ![importando_dataset](/Sprint_3/Evidencias/importando_dataset.png)
+ ![importando_dataset](../Evidencias/importando_dataset.png)
 
 ### 2 - Gráfico de Barras dos Top 5 Apps por Número de Instalações
 
@@ -33,7 +33,7 @@ plt.ylabel('Número de Instalações')
 plt.xticks(rotation=45)
 plt.show()
 ```
- ![mais_instalados](/Sprint_3/Evidencias/top_5_mais_instalados.png)
+ ![mais_instalados](../Evidencias/top_5_mais_instalados.png)
 
 ### 3 - Gráfico de Pizza das Categorias de Apps
 
@@ -60,19 +60,19 @@ plt.legend(category_counts.index, title="Categorias", bbox_to_anchor=(1.05, 1), 
 
 plt.show()
 ```
-![grafico_pizza](/Sprint_3/Evidencias/grafico_pizza.png)
+![grafico_pizza](../Evidencias/grafico_pizza.png)
 
 ### 4 -Aplicativo Mais Caro no Dataset
 
  Nesta etapa, identificamos o aplicativo mais caro disponível no dataset. Esse valor máximo indica a presença de aplicativos premium e o quanto alguns desenvolvedores estão cobrando pelos seus produtos. Essa análise fornece informações sobre a faixa de preços dos aplicativos na loja.
 
- ![app_mais_caro](/Sprint_3/Evidencias/app_mais_caro.png)
+ ![app_mais_caro](../Evidencias/app_mais_caro.png)
 
 ### 5 - Contagem de Apps Classificados como "Mature 17+"
 
 Contamos a quantidade de aplicativos classificados como "Mature 17+", que indicam conteúdo destinado ao público adulto. Esta classificação é relevante para analisar a presença de aplicativos com conteúdo específico, proporcionando um entendimento sobre a quantidade de aplicativos voltados para um público mais maduro.
 
-![mature_17+](/Sprint_3/Evidencias/contage_app_mature17.png)
+![mature_17+](../Evidencias/contage_app_mature17.png)
 
 ### 6. Top 10 Apps por Número de Avaliações
 
@@ -87,7 +87,7 @@ top_10_reviews = df.nlargest(10, 'Reviews')[['App', 'Reviews']]
 top_10_reviews
 ```
 
-![top_10_mais_avaliados](/Sprint_3/Evidencias/top_10_melhor_avaliados.png)
+![top_10_mais_avaliados](../Evidencias/top_10_melhor_avaliados.png)
 
 ### 7. Análises Adicionais
 
@@ -95,11 +95,11 @@ Para enriquecer a análise, foram calculadas as seguintes métricas adicionais:
 
  - Lista da Quantidade de Apps por Faixa Etária: Exibimos a quantidade de aplicativos em cada faixa etária, o que permite entender melhor o direcionamento etário dos aplicativos.
 
- ![apps_faixaetaria](/Sprint_3/Evidencias/apps_por_faixaetaria.png)
+ ![apps_faixaetaria](../Evidencias/apps_por_faixaetaria.png)
 
  - Média de Avaliação dos Aplicativos Pagos: Calculamos a média das avaliações dos aplicativos pagos, representada como um único valor numérico. Essa métrica ajuda a entender se os aplicativos pagos estão sendo bem avaliados em comparação com os gratuitos.
 
- ![media_avaliacao_apps_pagos](/Sprint_3/Evidencias/media_apps_pagos.png)
+ ![media_avaliacao_apps_pagos](../Evidencias/media_apps_pagos.png)
 
 ### 8. Gráficos para os Indicadores
 
@@ -126,7 +126,7 @@ plt.show()
 
 ```
 
-![apps_faixa-etaria](/Sprint_3/Evidencias/qtd_apps_faixaetaria.png)
+![apps_faixa-etaria](../Evidencias/qtd_apps_faixaetaria.png)
 
  - Histograma das Avaliações dos Aplicativos: Criamos um histograma para observar a concentração das avaliações dos aplicativos. Esse gráfico permite visualizar onde a maioria das avaliações está concentrada, revelando a qualidade média e a dispersão das avaliações entre os aplicativos.
 
@@ -144,7 +144,7 @@ plt.grid(axis='y', linestyle='--', alpha=0.7)
 
 plt.show() 
  ```
- ![concentracao_avaliacao](/Sprint_3/Evidencias/concentracao_avaliacoes.png)
+ ![concentracao_avaliacao](../Evidencias/concentracao_avaliacoes.png)
 
  ### Conclusão
  

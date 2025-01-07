@@ -4,9 +4,9 @@
 
 Este projeto explora o uso do Docker para encapsular e executar scripts Python em ambientes isolados, promovendo portabilidade e reprodutibilidade. Foram desenvolvidos dois subprojetos principais:
 
- - [Carguru](/Sprint_4/Desafio/carguru/) : Seleciona aleatoriamente um carro de uma lista e imprime o nome.
+ - [Carguru](./carguru/) : Seleciona aleatoriamente um carro de uma lista e imprime o nome.
 
- - [Mascaramento de Dados com Hash SHA-1](/Sprint_4/Desafio/hash/) : Recebe uma entrada de texto, gera um hash SHA-1, e exibe o valor do hash.
+ - [Mascaramento de Dados com Hash SHA-1](./hash/) : Recebe uma entrada de texto, gera um hash SHA-1, e exibe o valor do hash.
 
 Cada projeto foi configurado para funcionar de maneira autônoma, utilizando containers Docker para execução em qualquer ambiente.
 

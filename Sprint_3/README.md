@@ -49,14 +49,14 @@ Este curso forneceu uma visão essencial sobre como a nuvem AWS não só oferece
 
 ## Evidências
 
-[Evidências](/Sprint_3/Evidencias/)
+[Evidências](./Evidencias/)
 
 ---
 
 ## Exercícios
 
-[Exercícios](/Sprint_3/Exercicios/) 
+[Exercícios](./Exercicios/) 
 
 ## Certificados
 
-[Certificados](/Sprint_3/Certificados/)
+[Certificados](./Certificados/)
