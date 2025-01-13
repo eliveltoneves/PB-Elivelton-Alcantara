@@ -43,3 +43,4 @@ Estou tendo minha primeira experiência na área com a Compass.Uol fazendo este 
 ### [Sprint-5](/Sprint_5/) - AWS Cloud Quest: Cloud Practitioner e Curso-padrão de preparação para o exame: AWS Certified Cloud Practitioner (CLF-C02 - Português (Brasil))
 ### [Sprint-6](/Sprint_6) - Fundamentals of Analytics on AWS – Part 1 e 2, Serverless Analytics, Introduction to Amazon Athena, AWS Glue , Amazon EMR , Amazon Redshift, Best Practices for Data Warehousing with Amazon Redshift e  Amazon QuickSight
 ### [Sprint-7](/Sprint_7) - Formação Spark com Pyspark
+### [Sprint-8](/Sprint_8) - Apache Spark, AWS Glue e AWS Athena
