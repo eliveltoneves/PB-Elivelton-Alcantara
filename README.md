@@ -45,3 +45,4 @@ Estou tendo minha primeira experiência na área com a Compass.Uol fazendo este 
 ### [Sprint-7](/Sprint_7) - Formação Spark com Pyspark
 ### [Sprint-8](/Sprint_8) - Apache Spark, AWS Glue e AWS Athena
 ### [Sprint-9](/Sprint_9) - Estruturas de Armazenamento de Dados - Eficiência e Estratégias para Consultas
+### [Sprint-10](/Sprint_10) - Amazon QuickSight
